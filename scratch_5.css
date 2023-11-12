@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+
+header {
+    background-color: #333;
+    color: gold;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    color:fushsia;
+}
+
+main {
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: gold;
+    padding: 10px;
+}
